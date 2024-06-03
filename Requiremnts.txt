@@ -1,0 +1,4 @@
+Pillow
+py2exe
+tkinter
+requests

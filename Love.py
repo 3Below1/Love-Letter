@@ -2,7 +2,7 @@ import tkinter as tk
 import requests
 
 def send_webhook(button_text):
-    webhook_url = "https://discord.com/api/webhooks/1246943305053245523/TwWSW1XZlQtJ8-5rTyaOGikVrGQqCiQjCvlwzP97vKeMU84QonhvlsK6ME0wdjXSyNiq"
+    webhook_url = "Webhook"
     data = {"content": button_text}
     headers = {"Content-Type": "application/json"}
     
